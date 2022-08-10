@@ -14,7 +14,13 @@
             "email": "slice1213@gmail.com",
             "homepage": "https://github.com/klgd",
             "role": "Developer"
-        }
+        },
+        {
+            "name": "enigma",
+            "email": "enigma@drmwrap.com",
+            "homepage": "https://github.com/enigmadrm",
+            "role": "Developer"
+        },
     ],
     "require": {
         "php" : "~7.2|~8.0"
