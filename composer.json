@@ -1,9 +1,9 @@
 {
-    "name": "tinycolor/tinycolor",
+    "name": "enigmadrm/tinycolor",
     "type": "library",
     "description": "a library for color manipulation and conversion in PHP",
     "keywords": [
-        "scolib",
+        "enigmadrm",
         "tinycolor"
     ],
     "homepage": "https://github.com/scolib/tinycolor-php",
